@@ -1,2 +1,3 @@
-# python_workshop
-Python from ground 0 workshop notebook
+# Python from ground zero
+
+Workshop material for learning Python from scratch.
